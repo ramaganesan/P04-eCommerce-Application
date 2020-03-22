@@ -47,3 +47,4 @@ target/
 .DS_Store
 velocity.log
 .idea/
+/auth-course.iml
